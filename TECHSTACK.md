@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — تطبيق توصيل الطعام واكتشاف المطاعم
+# 🛠️ Technologies Used — Food Delivery & Restaurant Discovery App
 
 - Flutter
 - Dart

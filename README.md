@@ -1,21 +1,20 @@
-# تطبيق توصيل الطعام واكتشاف المطاعم
-**Food Delivery & Restaurant Discovery App** · التصنيف: موبايل (Flutter)
+# Food Delivery & Restaurant Discovery App
+**Food Delivery & Restaurant Discovery App** · Category: Mobile (Flutter)
 
-> هذا المشروع خاص بشركة/عميل محدد، والكود المصدري غير منشور.
 > Private client work — the source code is not public.
 
-## نبذة عن المشروع
-تطبيق طعام يعتمد على الموقع مع تتبع مباشر بـ Google Maps.
+## Project overview
+Location-based food app with live tracking via Google Maps.
 
-## أبرز النقاط
-- تتبع الطلبات المباشر مع Geofencing
-- إدارة حالة Riverpod التفاعلية
-- CI/CD متوازي لـ Android/iOS عبر Fastlane
+## Highlights
+- Live order tracking with Geofencing
+- Interactive Riverpod state management
+- Parallel CI/CD for Android/iOS via Fastlane
 
-## الدور
-مطوّر تطبيقات موبايل (Flutter): بناء التطبيق وإدارة الحالة والتكامل مع الخدمات الخلفية والنشر على المتاجر.
+## Role
+Mobile App Developer (Flutter): building the application, state management, backend service integration, and publishing to app stores.
 
-## التقنيات المستخدمة
+## Technologies used
 Flutter, Dart, Riverpod, Google Maps API, Firebase Firestore, FCM, Stripe, Fastlane
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).
